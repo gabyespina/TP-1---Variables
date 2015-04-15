@@ -1,0 +1,15 @@
+Ingrese Nombre : Gabriel
+Ingrese Apellido : Espina
+
+Ingrese primer valor:  a = 8
+Ingrese segundo valor:  b = 4
+
+a + b = 12
+a - b = 4
+a * b = 32
+a / b = 2
+
+Continuar con el programa Gabriel Espina ?
+
+   Si: 1
+   No: 2
