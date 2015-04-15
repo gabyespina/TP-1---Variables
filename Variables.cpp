@@ -42,7 +42,7 @@ int main(){
     //Variable de tipo BOOL
     bool continua;
     cout<< "Continuar con el programa "<< nomape << " ?"<<endl<<endl;
-    cout<< "   Si: 1"<<endl<<endlw<< "   NO : 0"<<endl<<endl;
+    cout<< "   Si: 1"<<endl<<endl<< "   NO : 0"<<endl<<endl;
     cin>>continua;
 
     if (continua) {
